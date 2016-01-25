@@ -1,7 +1,7 @@
 # testDesignPattern
 
 python 的23种设计模式的实现
-＝＝
+==
 
 <ul>
 <li>
