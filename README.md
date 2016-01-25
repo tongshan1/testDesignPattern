@@ -11,6 +11,6 @@ testFactory 简单工厂
 testStrategy 策略模式
 </li>
 <li>
-testDecorator 装饰着模式
+testDecorator 装饰者模式
 </li>
 </ul>
